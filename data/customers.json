@@ -1,0 +1,13 @@
+[
+  {"customer_id": "C1001", "name": "Asha Rao", "account_no": "1234567890", "opening_balance": 5000.00,
+   "transactions": [
+     {"date": "2026-10-02", "description": "Salary credit", "amount": 42000.00},
+     {"date": "2026-10-05", "description": "Electricity bill", "amount": -1850.50},
+     {"date": "2026-10-11", "description": "Grocery <Store>", "amount": -2300.25}]},
+  {"customer_id": "C1002", "name": "Ravi Kumar", "account_no": "9876543210", "opening_balance": 12000.00,
+   "transactions": [
+     {"date": "2026-10-03", "description": "Rent", "amount": -15000.00},
+     {"date": "2026-10-20", "description": "Refund", "amount": 799.00}]},
+  {"customer_id": "C1003", "name": "Meena Iyer", "account_no": "5555000011", "opening_balance": 0.00,
+   "transactions": []}
+]
